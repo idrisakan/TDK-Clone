@@ -26,4 +26,4 @@ Bu proje, Türk Dil Kurumu’nun (TDK) resmi sözlük uygulamasının temel öze
 - styled-components	Bileşen tabanlı stillendirme
 - styled-system / @styled-system/css	Tema ve responsive sistem
 
-<img src='tdk.gif' /># TDK-Clone
+<img src='tdk.gif' />
